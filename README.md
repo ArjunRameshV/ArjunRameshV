@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋, I'm Arjun
+
+A Software engineer, who likes to code for fun.
 
 <!--
 **ArjunRameshV/ArjunRameshV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
